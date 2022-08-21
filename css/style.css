@@ -305,6 +305,9 @@ footer#ft{
   align-items: center;
   height: 100px;
 }
+.ft__logo img{
+  cursor: default;
+}
 .ft__right{
   display: flex;
   flex-direction: column;
@@ -325,4 +328,5 @@ footer#ft{
 .ft__right .ft__bottom address{
   font-style: normal;
   color: #006d12;
+  cursor: default;
 }
